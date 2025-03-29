@@ -33,6 +33,13 @@ spec:
       repository: binhex/arch-qbittorrentvpn
       pullPolicy: IfNotPresent
       tag: latest
+    securityContext:
+      container:
+        readOnlyRootFilesystem: false
+        runAsNonRoot: false
+        runAsUser: 0
+        runAsGroup: 0
+        PUID: 0
     service:
       main:
         ports:
@@ -57,6 +64,7 @@ spec:
                 VPN_OUTPUT_PORTS: "5678"
                 DEBUG: "false"
                 WEBUI_PORT: "{{ .Values.service.main.ports.main.port }}"
+
     ingress:
       main:
         enabled: true
