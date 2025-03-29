@@ -40,6 +40,9 @@ spec:
         runAsUser: 0
         runAsGroup: 0
         PUID: 0
+        capabilities:
+          add:
+            - NET_ADMIN
     service:
       main:
         ports:
