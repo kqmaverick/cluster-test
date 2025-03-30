@@ -37,12 +37,21 @@ spec:
       container:
         readOnlyRootFilesystem: false
         runAsNonRoot: false
+        privileged: true
+        UMASK: "002"
         runAsUser: 0
         runAsGroup: 0
         PUID: 0
+        PGID: 0
         capabilities:
           add:
+            - SYS_ADMIN
+            - NET_RAW
             - NET_ADMIN
+        pod:
+          sysctls:
+            - name: net.ipv4.conf.all.src_valid_mark
+              value: "1"
     service:
       main:
         ports:
