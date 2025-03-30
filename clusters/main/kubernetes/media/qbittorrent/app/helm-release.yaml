@@ -64,8 +64,8 @@ spec:
             main:
               env:
                 VPN_ENABLED: "yes"
-                VPN_USER: "$PIA_USER"
-                VPN_PASS: "$PIA_PASS"
+                VPN_USER: $PIA_USER
+                VPN_PASS: $PIA_PASS
                 VPN_PROV: "pia"
                 VPN_CLIENT: "wireguard"
                 STRICT_PORT_FORWARD: "yes"
