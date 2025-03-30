@@ -1,42 +1,42 @@
-#ENC[AES256_GCM,data:anA33b5BpJmkIZz1SubsBc238aM2853xA1Xqk2OCh7a7SW/npZ6cMOx8bL++j1yZsKthZNcpny+V4P49N+k/sgs=,iv:Z0uroRLv82KYKtmSxw1El8UR0LK41MwSQ9Yy58qhh0A=,tag:pp0/johNUhMxcloYBSc4dw==,type:comment]
-#ENC[AES256_GCM,data:3s7eYYgR7rPT6RU5JZbMX3vvTeJcM7x8+zZZtiedH3dtpGZJqkYxGizsiMA=,iv:kKYdge1gbVFZZjT8/wE4umrXxikeZIQ93GNgOBvoARg=,tag:tmJbkGjDm7NfujOe2nkFUw==,type:comment]
-VIP: ENC[AES256_GCM,data:GRpav2g9wpSQiGc=,iv:kDIP/6OBM4eXou1ivw7+8n/DfS5ghb9zk1zWL7fb3W4=,tag:08TpJC89StqjClAT9mtYlQ==,type:str]
-#ENC[AES256_GCM,data:tNB4KUW/ac2z2EjapDz9eaC2qETlpwucDtBs,iv:tfKzf0hX/2EyYVMnwTzXpCm0MomTOWGWlweU2YhlZ4o=,tag:FC2xxTtLNvYB+xTiXFwAdQ==,type:comment]
-#ENC[AES256_GCM,data:oHk7aHNpRkGia/Rb0qEhuZJADGKBdEJ3x7o0ImYVCdp6JyCMfR/QYEGwmYosmSP1UHZg4jCDvrz/wg4RGhByfQJ2M8uN67RDRsTSkC5aNMU3/VU+kzJzyhw=,iv:YfHJTxBOqRP9Bx4+S06vdsUmS0bHK2Bpu7YzeFzZYvE=,tag:QERc0T4sKNXmJRarmaYOgQ==,type:comment]
-MASTER1IP: ENC[AES256_GCM,data:k6D3Vx9F0TVBZBCY,iv:zcnYCNLcWIK1T/ZqxWO55zdMtCpPcslucU1mP1w7PH4=,tag:+cmhhJUaDVJ1QxySWfSz+A==,type:str]
-#ENC[AES256_GCM,data:TvfqRZqUEM/x7MM8U5L6pr5mY1PJEbbVJqMu8urzpfmNfA==,iv:kyllmje4KSPiCsjrR5t5m8+AjmB70cfBXhBIkCTEdk8=,tag:eh0TjeiyIRv/jEEFZzjsgw==,type:comment]
-GATEWAY: ENC[AES256_GCM,data:TE740z722bqc7gc=,iv:GyxK/i4I2Md6AZt5sxxPV7dN6ZEaaTgyc+j0MAgogSI=,tag:3z0spVUW6Nz5JYJGvSZqLg==,type:str]
-#ENC[AES256_GCM,data:LAf/r79Mc4cXEUvmxELOxTQbp9Xg8l5lE0y2g+SGwW99MmGHYDacJwhsVJmvaUY=,iv:Xj1wRBy2eAld+eQdMiwrMdqEY0KhFGWu5+fmHoxbN5k=,tag:OUfRw285W2qJNqXEjBqhOQ==,type:comment]
-METALLB_RANGE: ENC[AES256_GCM,data:MFHJSKYieWQ9XAW/cFL3txsgXAd22x96nPYXNg==,iv:u6sLPxAFpGGQK1+EweRkarRCz/U/2d94xY6XOaEbQeI=,tag:RmMGbsrHQoc1XNYXkYRibQ==,type:str]
-#ENC[AES256_GCM,data:F/jq6LA/pfYJ9JKw+P+FG053WUtoJ7MyY26Xusv9NcvREcK4j99luqHAL3C6gd/dNNSTJOGJJixD8T4X6MTjTB2CmFw8jIHVT4y5BnwwykqiUA==,iv:EvaOBmfB446eavw6K2KzLvdP0wNuxPqroX7RXjQKonY=,tag:NAXqYDvpL16xYFuW59lBLg==,type:comment]
-TRAEFIK_IP: ENC[AES256_GCM,data:HrPZB9lA+5RXlbtaWg==,iv:yWerQf6JOv/huY5q+Guz8PxYEFWMuPpBEsCRQwmYV1Q=,tag:yZ1z0nj0MpEl7Y9QmcEbkQ==,type:str]
-#ENC[AES256_GCM,data:Mbo+2PugfpZ0hzjcaLesOFOuj/59+LYinrtGhiFsCx8r,iv:NiB6Sc+V2MThrt1dS8y2CfdS0sFkKdw3g3hYqN69Wv4=,tag:lEA4knU9hEC3pMCeJCfaqA==,type:comment]
-BLOCKY_IP: ENC[AES256_GCM,data:CXRcz+W1n3qXDfsFEA==,iv:/DwsFPc9GkdS4k+bFdSTmS98AbBEEaL7Jq05lr4cNk0=,tag:8HCtIB6ICov77Zn1ZYQhkQ==,type:str]
-#ENC[AES256_GCM,data:3v4Zq/v75z7biXBS4uYa7KCUO4lBe82n6j4MDh6IwC1kLsbDdMzaLKVK5e3itYS0ZuLMUykk0oBoMJFmhJHlsXTSJhTZthHk8mFgz41fmX8=,iv:mHyVTUfvSt+8JkHRR8WzIVqMnWL0R5Tes8v4K/EMCFw=,tag:gGFupo17jDdS91cuj34TXw==,type:comment]
-DASHBOARD_IP: ENC[AES256_GCM,data:Pjb7IgwhTiP7Kgcu8A==,iv:gHbyOsyFF0P6x06edk2OWBUQB6fTqJw3FrSAod44wog=,tag:Ovxw/CAno67azAOLe2Fs2A==,type:str]
-#ENC[AES256_GCM,data:lIQtN41p3FkcIsfyypeDvLdF7ygIyg8DDm2r7B16pIbC7VXgUzN8IflAWOs/uNCBxv+/lOeef0qPb3lNyyEDmKABWAk3hAkCgZaG1mrjctmDvCwI4jD4,iv:Ft6Iwi1Ex2qVkToaLv2kc3bVO0fL5xEXdPF86t+OxDE=,tag:6yLx8QQEx6VxPj+jES9q2A==,type:comment]
-#ENC[AES256_GCM,data:zUYeExLPPJRgOQPGTX/O5lShkRA2UdFIlAG9D+M0RAn1PiUteFGG8SbXxZ0wVqemSFwZgkESbGo+4s0+EsIJGS9Cld2SfuLv601GBQXdGUqfbNOjeSwyltl9fo5ssx6G2Y25a4GFqCJRvVmtFXpJ3s4FP4L8gicKHAEBpw==,iv:QSjwVctgUfUXut9lMqBg8hOm9nXrVJFPdD6kQ8ZBzYs=,tag:loilfhNtvd/AIJhbZYxLIA==,type:comment]
-#ENC[AES256_GCM,data:JIso3aWERHuGxbkJtSDQBj0k7FJkO2rLd/WZ46WhcUi1j37Dzuu2gYXVcZ7pCDM+uy/z+zAsR6LmUQJXDOzipQsUD/z1wFM2wdeCMcgyznY=,iv:CpcS24dQHJ+ff1z5ulPVO0bYla/XRVoosheeY6+o7+0=,tag:qhU2H8/F4C3odo4HVdLL/A==,type:comment]
-#ENC[AES256_GCM,data:o7GZnTwEGJTEdayGXfP/5nKMOkTKGRMPYdpZPY8GtRkvrivlYT5BObYAkFPsysp3uN5vL2U/,iv:RcYf1LV4zNkcZaoZhf7C78exqlycVImN2EtzRCJGRns=,tag:fEU4FjbSe6HEA/upi3d+LQ==,type:comment]
-DOMAIN_0: ENC[AES256_GCM,data:LY7V1z7x2PAOOENgS9w=,iv:GJo8p8I0ENz4ohOClakkSvr8QY8G7tZwA3hoPuqVm4Q=,tag:o/VBWdEdcP7+/zwripsj0A==,type:str]
-DOMAIN_0_EMAIL: ENC[AES256_GCM,data:lgrRkRFAZlciFitjvyP++2CxNIE=,iv:CV1pDiom0+616JtCBaxF/JJYEBsFzmaPUiSLwnKKrEM=,tag:ZjGulSL1IqXcGZrksoI0rg==,type:str]
-DOMAIN_0_CLOUDFLARE_TOKEN: ENC[AES256_GCM,data:shCPKbg8yRFLzu26fP9cdk7wc7SP3jr3tmWc5A0kgw/u5f7IMUKemg==,iv:pqL6uR2SHWxfMDr+tvXdGsjLO3ALvL9yahhZbeUR0i0=,tag:egbA99Y/ngKYReF/q3MZnQ==,type:str]
-#ENC[AES256_GCM,data:2ph+njB0ZPG2T95qY5kKXgyEgd4PQGCjUqHB+Vp6zpKorl5AH/rJx6s7e6EZYk7QhoIvMlTxnvk=,iv:AKlCKzGffvFdKA3zsuOPRXbOf6Z1KaaxiSWast15SBA=,tag:MJluAf/R2M7pUEaeuLpiGw==,type:comment]
-#ENC[AES256_GCM,data:tl3dcv8hhz+Y8ub/301YeEb51z9qUIFFvQ==,iv:eQVnNlvuxGR0jwIg8ggka/kmOgJskRhqgY6PWHuckyE=,tag:D5SpVuqgn3CUvnhYt6Wzig==,type:comment]
-#ENC[AES256_GCM,data:9YgCxMWXEeaqf4uMqUckVFZNDpUD6uzidcOi8kYMbIemZd+WiomjNKvkF3Kl1GsvkPQW2ESSIMyqavM/+tzMshwc9ZSXK9Cfih5F0/I=,iv:qHwN3jMqB8NholZGIkkdPTZkQYYrXVoYFYON0PbOzoM=,tag:UWNnIEuj55OJ+B7TEB72Vg==,type:comment]
-GITHUB_REPOSITORY: ENC[AES256_GCM,data:DaqAvOqZtQWFxrPG0w9AvNBwS679xRm4iJlOeRpTS3VlITC99AoyzGw0VYqAmFRW,iv:ikmKbaph4iz0s1nZQh/f7XMdIQgtQf9PZxnaHZd/Rh8=,tag:OJwQcwefQFlUJVwbuZEAzQ==,type:str]
-#ENC[AES256_GCM,data:2anuEeH/aTV4xCIvmOGDGI/8bDsmyMZw6eBwcEPT/zRp/Kb4+PkEcrnzKFmV33sZcsWvRlf4EnVwO6l7FX3BVfuWKTNhs1c=,iv:qbMT5e3lz3GcqL3BZ6c8ke1aAkFIXGbbtX4MsSQhHXg=,tag:1DM9SVFZrDg+ao69jmP4fA==,type:comment]
-#ENC[AES256_GCM,data:pDW9uMa+gt5jSoiAhYpj2kUbjwWq5DyvUgQCcg4ZiLaN4KW8BAR6foM2Hu0iXbCGeclNHKZy,iv:zbw5Wlh5EPSQgmxnrgRZNJAI2vjJlHoQAdzONT+2YO4=,tag:JfUJ6dlw3OgdaAEso7yj0w==,type:comment]
-#ENC[AES256_GCM,data:27gq5dWN3fVI/wUU4iduu46FxQCp/nPI9qEaVZPRd1Twr7I=,iv:zKfhWlRl6CDW0NEx4Aux6TKU971t1Y1+ZmUuuBLoCqk=,tag:MvHoJMynR+xlC93qsG4IaA==,type:comment]
-#ENC[AES256_GCM,data:NSYz61R7IqbbLAa1SRWpHm0JVogILd0WQg0/tWSP92bteYfbDf99,iv:OwT6vPXbFwK/oNdDNKYObcKPUX+//+P8CYkgj9u7cq8=,tag:fNs+eUxBgz7B6+wQn0Z2Lg==,type:comment]
-#ENC[AES256_GCM,data:cz9sictyFzAubPO2H0E=,iv:Bp0Du4LJqopFmiM2RpVMgVdh/IDJd/OPzof2x5NBNVg=,tag:LSzHbnmq8soL9yPyrXEevQ==,type:comment]
-PODNET: ENC[AES256_GCM,data:/T89JegL/e0+6j54Qw==,iv:MTeFFJ632efsFpbwFgDoqD/AEdwnVZ0ZCEb5ta0rJrw=,tag:95Yaim433r0mkRKjoTW3AQ==,type:str]
-SVCNET: ENC[AES256_GCM,data:HM+95IKwV4O9PLI+tg==,iv:3Asc6Ii6Cv3DQM0/s4f2rVK0goSIX0xwl02KdHYfe1o=,tag:/L2WZKTzPHS61sWqSgDTZw==,type:str]
-PIA_USER: ENC[AES256_GCM,data:yrkd+zd9w/Y=,iv:1ELmorfae160idw2YzSs5ecRgI4wJO/wsEDs4FIsg1I=,tag:d5keY+ioAboBcslJsR8y3A==,type:str]
-PIA_PASS: ENC[AES256_GCM,data:MaTTaJEbcXUpOg==,iv:YGO421DYN6nTSaXheEhF6Pkfm2nf477Qd1Qth2ArHf8=,tag:Ng5pe9IvekWPtFvvhAovsg==,type:str]
-ADMIN: ENC[AES256_GCM,data:Qnf2N/s=,iv:KxmL1sMAR5UnHrjXINK3pC0oMzCRSvTy2cpBibZ4tTs=,tag:AgUAcT7cv8CR9gopGGLl5A==,type:str]
-ADMIN_PASSWORD: ENC[AES256_GCM,data:r9omuQUn2dQ=,iv:Pq4a138+D2yzJuc89GA1fJrQgNVgrz2vzgzXrnlQucw=,tag:Psatrr0zFhp68MZBQXpKqA==,type:str]
-PLEX_IP: ENC[AES256_GCM,data:eFLR6nzQN5NtaFjmFQ==,iv:gYvXZctNdGAOUqZKr0P1dt7Dh79Bdi8rNxUXQVEOgws=,tag:rXE89dKeEgxt0EspxP9VLw==,type:str]
+#ENC[AES256_GCM,data:TyDTgd4oojGGktz8PEh8L6r8v2ZZ/Kec1sCRCC+FQKZfAs8GKzzQleedacucA3mAWt+ncwFnx6Nm5wk8mRF1luk=,iv:doYt83EogTo3M4meC6khsNjjI+JXhuaEtF8teWjTyNA=,tag:hlhqQrZXp0zvNChHHN3uXA==,type:comment]
+#ENC[AES256_GCM,data:cE/jNzH9UYAZnv6yxlfdhu/aaUZfHcf2xsvUHn31qulwuslmHlcPg4jDG7s=,iv:lSJ0fTgOjgd9dzkXcuvi9LMUXT+R/3yq3NNAhnk4JjQ=,tag:TC1Zz4U0aVzNJ+q3AifutA==,type:comment]
+VIP: ENC[AES256_GCM,data:OeHsHv6gHyrfTLM=,iv:5zuiTsMrzkmCTS7Y+zNLCVEItSFU0kOmCBoWlZAElOA=,tag:uosMwEE27Le2AdXS5k8Dwg==,type:str]
+#ENC[AES256_GCM,data:SNVijbmlcK7kqFejoRgt6whT1uADpzJBBr5C,iv:la7BUpJS43nkN5GzjoxsHua0uzD+XzO5OsRSPi0VQtA=,tag:FsYRQfF62oEq0G8vAKX8kQ==,type:comment]
+#ENC[AES256_GCM,data:12zj2KiDiw3WRYOF/Fo2dKWz2cYL7VCbXoIjv4B9LF62UtmpULejMsUqwLVjsXu2092QlQos+Lwdo/PzbomtpUKjrvoR5AmSc5sb6/YGclmqNU6MAMSs+XI=,iv:p/PHxMWKgXrl/sT/oWQlyhpMTbVEXWsI0dARNDoHBOY=,tag:hPz9GBpK6MI23vmonKtAwA==,type:comment]
+MASTER1IP: ENC[AES256_GCM,data:1SPCNPzhUUaCW+Bt,iv:vWREFvu6xLM0ZHuQCecBa4u03srvOOoKGYlq5iQZWJo=,tag:3SpmPgJTRPVBa7LNr0OTSA==,type:str]
+#ENC[AES256_GCM,data:ZQQEPugBEuA8Kjj9P1zR3rmoTwM/to/acWaTrL2kcp2RDQ==,iv:rGHmuzB2tdXYNQMhFyT2WYKhpp+MyGUQiqe0Dh0nrp0=,tag:kMdNxXXI1CBFfY4XSGz6UA==,type:comment]
+GATEWAY: ENC[AES256_GCM,data:eFt77JjbKzSOwac=,iv:llYhZmza6IJzbSTXCAfVn3oqIlkyJ9UdiS6KsxlFS2g=,tag:XT2A/kgZuTc4AKMYM04V3w==,type:str]
+#ENC[AES256_GCM,data:XK893TdsrEqh4wzIXykH/73tfpN9ffX29wcjdQ3PWcu3/1WHUuRzTGrmYBWBZrU=,iv:bO91nwAQdULmYwEotG3bwpiWp6OMHczh0zXuvO6FReI=,tag:5n1AT5xTBpE9e8SSrww2Kg==,type:comment]
+METALLB_RANGE: ENC[AES256_GCM,data:6O9t5GPxHmtyrjpnNJ7XFsrWWSKgWgfCk0I0mw==,iv:fMnzYIosUXoZbfmLKX3OgujSl7kTbABxC9z+SJElp1M=,tag:Mt8J6b/VpxkjaC+16E/cQA==,type:str]
+#ENC[AES256_GCM,data:7x0zhH758AiIKKRc4tw2LY4UMTaBYPHXCdekxTQHkmhaQUrSpsZK3CJgckIG4hvvtBUF/BlERrIWxpQeVHKnGgTI5hv5N7ml1DZ46Kynfl/h9Q==,iv:/4PzlCmTQbfn8I1xRgYqtnDQRbORdoXd8j/+cMu8Wag=,tag:nGvZVx/Z4M4Z4KKQkpksCA==,type:comment]
+TRAEFIK_IP: ENC[AES256_GCM,data:lB4YMhJxbiWKqU8C0A==,iv:3wcYeP2lWvA38GRtFq7Bkeow/98TYTPq8I7Sb6EwDFE=,tag:hnZVSu7k3zteX+W/MzJovw==,type:str]
+#ENC[AES256_GCM,data:enkfdvpSiz5ENh51rDz0m2lLfwGtXWQa5WmPFf9Q6YKi,iv:rOAQuJsBjbXVf1+9maTAshZJ3Pys8+yC0aWw1miuqrM=,tag:m4WdlJyaz/XZT+LMYvdxdA==,type:comment]
+BLOCKY_IP: ENC[AES256_GCM,data:E7kMrKvXoQevo4qjzA==,iv:c3KIQW891RwPrXFpizIWOJBPpXszd24W3vMqHiqI3dI=,tag:QeTCNXjKzZYNHXBkQ4h2dw==,type:str]
+#ENC[AES256_GCM,data:a6EpTThMFR8ZHU2vlVDsRDvnu1OPvLwgv0Lnm+SLq40OQ6gr2gGPWpLjo7gU4CwpL1CjALIti2Gze6GEJjK7vkHjNW7b2GFnaIV6eE6erQk=,iv:dTR7/XKMUzQJIn4yVCZUfqGNfvCq9WEwtIIa++9tJls=,tag:RScruZcQA3Gwz2DM2lITVQ==,type:comment]
+DASHBOARD_IP: ENC[AES256_GCM,data:IALTYfe6MfM+uFXrkQ==,iv:jFmKqvgYDWaEE2H6pycvU9T647FOI+r3nkcbg/PzfRQ=,tag:eumJ8twQvlpNg7INxL0cgQ==,type:str]
+#ENC[AES256_GCM,data:fEB4FOC56FAkxMvCyZkl6QYSd7ikHgaEebVgXFoW5RufsixkEem6pcYSZ5ssqjzkTgW+2AWAfvH4kPviSVAdT32Dy/l4Llir8VyyhS2yjVJEFWyHWoZr,iv:H6M1W/HZ4Jzk2clfCLpcoxzdWBF+90ReqpYTwUcENoQ=,tag:rMY/dAKnmdvACGnPwwtzug==,type:comment]
+#ENC[AES256_GCM,data:Iaujt+flXP5aOkTnBQ8u8Ww6SGe7LsC7au92Uqozdf43Q7r+cal6koPheE1IMtypvaINLxHSHIVLy3qsJmHvP8FCcyWqfKqNNJDJKWdFAyxYLWVZljpfnB6yzTTQc8TU52enPlP01cwQjijVmKQfDyVVv91bVwcsMyOc0Q==,iv:wd57GCTdQW1Nf8IhPr9n3sYfiJcka4qP0CWmTBKt4xw=,tag:m0IWB5eia904Ec8ZV3sKYQ==,type:comment]
+#ENC[AES256_GCM,data:27kVyO3ZwdwIK6AHKwK3TIq7TUZ42vkoMf+n4MP/Tq6CZjPz5B+2qmHL5DtsZIp15qIKS6oh5+SgtvDE0utBAx+f9rPzyk0K/kpHLw6R1+c=,iv:0hBRplUBKLvO7MHYHptOE/uwjIGh4vVZerjqK6dstKM=,tag:qwbvtGAkVhqK3euCiBvFpw==,type:comment]
+#ENC[AES256_GCM,data:WIrE3ihkSrAVj+e8rUFiOTwfMwxqPD2jg4DQNKdBpiQguy+ZQreNsPRwKyRvQfIRvMFF3Mxy,iv:ZwYNbMPoSa+1MiokUj75G6hB0JyjiTJVUUBs8mm7jpo=,tag:6DYI8ac+kJzBiRl4F8glPA==,type:comment]
+DOMAIN_0: ENC[AES256_GCM,data:5NjXJl41bVfOIm/VpeM=,iv:RbQJHS+AeP1tkjA4qgrYqj81aBKHg05RAbA5B+XWzjM=,tag:ihppG1WHWpg4XkgNzqRe0A==,type:str]
+DOMAIN_0_EMAIL: ENC[AES256_GCM,data:AqbpZIv7C5CqlEmEugWw+FBaZdo=,iv:8IaiFUpgDlShsnYSnYwMozGKkrZtWmQJgWFqUZ1ixkM=,tag:eLUQ3rt0m/aCLuO/bgPxEg==,type:str]
+DOMAIN_0_CLOUDFLARE_TOKEN: ENC[AES256_GCM,data:1u9p8rrU7mrIqyxZKgNcAEqifvtZ/McR7JsCQdnjVget7t/vcHxLWw==,iv:LoSuRmOcl87ShJ62KV/8MSj6dUb/CExSl7EnUL9DX10=,tag:Wy5+JRUNGS00l7hL8VHaRQ==,type:str]
+#ENC[AES256_GCM,data:PUVT1wKJWqoc8veudqlBRFwmy2azOVVrbQBGrCJrUBjHRt9WDj7LkgF1v+ZS2GED+WKES9+CozY=,iv:Xha9VQ25Q1nBBBZQNMqkIifrm1c9b2OIGpeDH2rqLW8=,tag:3EcIUsexy/cIBruyLtamww==,type:comment]
+#ENC[AES256_GCM,data:qyKpVVND9qQKrcY6E6NvRsYnywaFIGsVAQ==,iv:7K+OPBcX9cuAdADpB66CcO8pWgynPoljwEtkLuFoxzo=,tag:NV9VzVhGesSaqp6ia1m+fg==,type:comment]
+#ENC[AES256_GCM,data:r/NtdcPvCb0v3bPWUklByfEQBFA3WHB8RHsUFtu5NvExZiJw6QfrmNvplFvg8jdcRQYJjt9tEc8U6ZBPjdtC0LOjVaFpzJFqF92dyc4=,iv:cWWCaIgVepEPd1pCXMayu7obRK6IZInJavHmWHLBR9M=,tag:2uTlR2fwjQwJ7EPcZKndwA==,type:comment]
+GITHUB_REPOSITORY: ENC[AES256_GCM,data:y6+X1tsJS50BHMuYqUwIeFfEZV9lu+vwjVVU6FsB3ll/Vov73LP9VWHi8rCgTki4,iv:xvcQkyHdjw0rCU8K+iIp4f3ByanGmjIBOnwV0nTsYAY=,tag:ybA5p299luXCEqzeL36N6A==,type:str]
+#ENC[AES256_GCM,data:y68mmmb05jn/+j2ygfsQLtrqbDm2p1c6PwYfM/nLhtti87XCDcucgJhZGdrxbsjrRkTMJwBs3z9Ajh0cH6DGYb5ksw9Wo04=,iv:gMOu5TmhaZftoXxinVHXx5rIEHX/YK/cTjB9cJucsIU=,tag:yPb1qFpJag/iUMl+r6J59g==,type:comment]
+#ENC[AES256_GCM,data:32zhjbdTQhabWNP0nTHokwLKbqQ1KZ6DeMpYwYxDwjKLLc4eQnTcSBPZP+XulDa67HXmW1xq,iv:h6DCUEKMPqE/trNMMxpL/tHpJFNKmP1iL7x3C8sWb9k=,tag:2HbT4N2Or68JUxq0Nne7TQ==,type:comment]
+#ENC[AES256_GCM,data:eShKIQstA/uqtSZN74yRdqPwuej+yPaz03QLGmX5SAmNaS0=,iv:/O4SZ9+v4U0YVH1hRXhF1WTMToyJ/0sOYeKfBVRM9hQ=,tag:CUhhXRZQh763OD/LnksIKQ==,type:comment]
+#ENC[AES256_GCM,data:0jeBbYSX72EidAKXOJgqSBcFwkMXuLN5xgKXQDPGzzVGMH7qbAjF,iv:quMytlecsPwI+9rhujpOpSVW6+xq07ALu2o41Wb4sDY=,tag:58dAAJc0nVB4PcXzm6h2Iw==,type:comment]
+#ENC[AES256_GCM,data:Xx9cBRjhMx2W7YdGkFA=,iv:ST7OS2BFCfCvMxW5qmom6QRO23jGB7l9/QlfcDI7r0A=,tag:e7Df0n9luBX5atSP+yjVzA==,type:comment]
+PODNET: ENC[AES256_GCM,data:2EgzSJfN1mQBy7MeFw==,iv:LWpsSDmJu05Dhol/0bH/pM4B5CrOvM/nqp5pz3n/sEs=,tag:mQDmMYM9IRa3OXahlXsTpg==,type:str]
+SVCNET: ENC[AES256_GCM,data:JoRZ8Z3icTUGu+6n7Q==,iv:aXxLyEOn17yiXR/l0s3Q0OamS+RIfxsklBdwuaEpTqc=,tag:/2VrGLiqU9gd5Yd+ueQvpw==,type:str]
+PIA_USER: ENC[AES256_GCM,data:EtqkKox0/K8=,iv:JREJo/ARaumZ7f+ZfyDVVxSDfJWxlwYS4dCwk8krg18=,tag:zZGAEUDP0IpNKA5Z2jxOdA==,type:str]
+PIA_PASS: ENC[AES256_GCM,data:LWYL5HofODoDXA==,iv:2fQbdDW/U61AZYHClPfhdhxrjEXe/z4xCcgTiuJ/3Tk=,tag:vqlr1W3KYnlnp/lvcpCCog==,type:str]
+ADMIN: ENC[AES256_GCM,data:1yvDTkw=,iv:APzJTtvDPsV20lFv3nV/3n+riHmJK2UnBn+0HN74cDY=,tag:ihN6zCywHdFO9PRhxhbHmQ==,type:str]
+ADMIN_PASSWORD: ENC[AES256_GCM,data:ExaM4VeA9Lc=,iv:g+cgYKl1wIIswsc0YENwf6FHtQqyjY6tDbXSf6fD4S8=,tag:fxBr73pfaBaX69fKFUKzFg==,type:str]
+PLEX_IP: ENC[AES256_GCM,data:+hLFDBOWXyLJ9UWRFQ==,iv:3MWuz28VntIwxTLRSymSOMP+/ancwb1AazRULWhijP8=,tag:19/jRkW9llFuCutsIlOxQg==,type:str]
 sops:
     shamir_threshold: 3
     kms: []
@@ -47,13 +47,13 @@ sops:
         - recipient: age163w26sq05nu7dk7u9vnvfjydtrvjmsww7yu424f98f6zsw6hxuksy9y7d6
           enc: |
             -----BEGIN AGE ENCRYPTED FILE-----
-            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSByRW14V1p3OC9rS1BURjJS
-            amt1UzBUUVlFVkxvR2dDQ3p4VFV2MXlnOERVCkZEOGVSVCtodzhzeW8vNkNKeEMx
-            YWZKTnI5K1pIdzV4UGQwTHVGSmJlTW8KLS0tIGZ1UWlmSmE2QUF3YlNhaHk3TXhr
-            TGF0ZGp4Y2FTbGJaUkpLWjhXaDdsSlUK4/87xZ6OdJasOPSzQefgJcg2ZSpsEbgH
-            t5JovsHGoChZ+Pmlsu3xDPCnsn7A6QwOipsZehEFOJF2B4kYnE9FQg==
+            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBpQjJzQ0VLT2xrMTRmalRv
+            THpES1A5MFZkTWFSMzNlRTJpSE5ITkV2YUQ4CkFzanBYcFNMbUUxZlczclJ4WDZk
+            bmcwUWtrQnFaMWkxWGlCRldVb2srUHcKLS0tIFkyd3hZZzhNbmVSQlJ5Um54dWZX
+            V2JSaHlKcUo1bXZ1VUhZem5WY1p5NkkK4U8Y5zRs85Acqb8PEHU6BFE+tqSnR6ZM
+            MX5Ou0rtzp4O4UWVlJ/qsvUCcQvjRLpZp+Efr9sG+Ux7/VoChHrhJg==
             -----END AGE ENCRYPTED FILE-----
-    lastmodified: "2025-03-30T16:20:22Z"
-    mac: ENC[AES256_GCM,data:w2sXLyeVmDfQD72TO3g0UutoqYLWEaJDCRNbOhRVXXVY6QPYBb8C8Z/Z0GO8lzoRAhXThxh4KOfSqoCQEpiOO/mBmxk4TZdFktu2oXdIGNGV80l5jXZKhUYUJ6FTVVFZZ9OYDB33V9DNoj8Vm24PPz5lWqu6BKK+LZ5bf09doT4=,iv:+SCoHS5O5JRIBfJTyjZXuBVg9fAUVoiiH3cHw6eujaU=,tag:KjY/OJ/e3Leo3ed3hrNbXQ==,type:str]
+    lastmodified: "2025-03-30T16:23:31Z"
+    mac: ENC[AES256_GCM,data:mSOg0MAyIl3iwT8zhpVizg51I2e0h4Honn9lZPKaZSQSIhXQytpQ8Nw6KlfGXF1Zz3hW7jr7JUKWssvqMhHfKAdrnFlkug0xYsd4AgrTiDOj4JnONHiEJfNIL7rqOBIOkWY98BDe0X71NEop1YKySsdlHlBnU1FYLbAKys7EOVo=,iv:4n1Ri0G4y5h+5XI7TZ9zVc94BmwlC3rwfAU3UlwGHyg=,tag:SLGKUMRoewU6dlBwMye37g==,type:str]
     pgp: []
     version: 3.9.4

@@ -31,15 +31,15 @@ spec:
   values:
     nextcloud:
       credentials:
-        initialAdminUser: ${ADMIN}
-        initialAdminPassword: ${ADMIN_PASSWORD}
+        initialAdminUser: "${ADMIN}"
+        initialAdminPassword: "${ADMIN_PASSWORD}"
       general:
         default_phone_region: US
         accessIP: ${TRAEFIK_IP}
       collabora:
         enabled: true
-        username: ${ADMIN}
-        password: ${ADMIN_PASSWORD}
+        username: "${ADMIN}"
+        password: "${ADMIN_PASSWORD}"
     ingress:
       main:
         enabled: true
