@@ -37,6 +37,7 @@ spec:
       container:
         readOnlyRootFilesystem: false
         runAsNonRoot: false
+        allowPrivilegeEscalation: true
         privileged: true
         UMASK: "002"
         runAsUser: 0
@@ -73,7 +74,6 @@ spec:
                 VPN_OUTPUT_PORTS: "5678"
                 DEBUG: "false"
                 WEBUI_PORT: "{{ .Values.service.main.ports.main.port }}"
-
     ingress:
       main:
         enabled: true
@@ -99,11 +99,3 @@ spec:
         path: /mnt/Storage/Storage
         mountPath: /Storage
         server: 192.168.0.100
-    addons:
-      codeserver:
-        enabled: true
-        service:
-            type: "LoadBalancer"
-            ports:
-                codeserver:
-                  port: 12321
