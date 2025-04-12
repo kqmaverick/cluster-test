@@ -100,7 +100,7 @@ spec:
         server: 192.168.0.170
     addons:
       codeserver:
-        enabled: true
+        enabled: false
         ingress:
           enabled: true
           ingressClassName: internal
