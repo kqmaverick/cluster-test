@@ -4,3 +4,4 @@ resources:
   - kubernetes-dashboard/ks.yaml
   - immich/ks.yaml
   - nextcloud/ks.yaml
+  - homepage/ks.yaml
