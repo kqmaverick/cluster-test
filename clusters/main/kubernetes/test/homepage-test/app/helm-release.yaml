@@ -1,8 +1,8 @@
 apiVersion: helm.toolkit.fluxcd.io/v2
 kind: HelmRelease
 metadata:
-  name: homepages-test
-  namespace: homepages-test
+  name: homepage-test
+  namespace: homepage-test
 spec:
   interval: 15m
   chart:
@@ -39,7 +39,7 @@ spec:
             main:
               env:
                 # Set this to your host (example: home.mydomain.com)
-                HOMEPAGE_ALLOWED_HOSTS: homepages-test.${DOMAIN_0}
+                HOMEPAGE_ALLOWED_HOSTS: homepage-test.${DOMAIN_0}
           initContainers:
             init-config:
               enabled: true
@@ -370,10 +370,10 @@ spec:
             enabled: false
         tls:
           - hosts:
-              - homepages-test.${DOMAIN_0}
+              - homepage-test.${DOMAIN_0}
             clusterIssuer: domain-0-wildcard
         hosts:
-          - host: homepages-test.${DOMAIN_0}
+          - host: homepage-test.${DOMAIN_0}
             paths:
               - path: /
                 pathType: Prefix
@@ -388,10 +388,10 @@ spec:
               enabled: false
           tls:
             - hosts:
-                - homepages-test-cs.${DOMAIN_0}
+                - homepage-test-cs.${DOMAIN_0}
               clusterIssuer: domain-0-wildcard
           hosts:
-            - host: homepages-test-cs.${DOMAIN_0}
+            - host: homepage-test-cs.${DOMAIN_0}
               paths:
                 - path: /
                   pathType: Prefix
