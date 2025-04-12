@@ -33,7 +33,7 @@ spec:
           traefik:
             enabled: false
         hosts:
-          - host: ${DOMAIN_1}
+          - host: ${DOMAIN_0}
             paths:
               - path: /
                 pathType: Prefix
@@ -65,4 +65,4 @@ spec:
           containers:
             main:
               env:
-                HOMEPAGE_ALLOWED_HOSTS: ${DOMAIN_1}
+                HOMEPAGE_ALLOWED_HOSTS: ${DOMAIN_0}
